@@ -260,6 +260,7 @@ ul li a {
 
 .grid-items {
     display: grid;
+    overflow: hidden;
 
 }
 
